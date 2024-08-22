@@ -1,0 +1,4 @@
+
+=> npm init -y; 
+
+=> create a server in index file and push project in github
