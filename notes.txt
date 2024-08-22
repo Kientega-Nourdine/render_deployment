@@ -2,3 +2,21 @@
 => npm init -y; 
 
 => create a server in index file and push project in github
+
+=> create account in render using google and after acces to dashboard choose 
+web service section to connect one or all repos with render choose one and select your nodejs repos
+
+=> enter again in dashboard and select web service we can see one project clique for enter config after
+
+=> we must enter details for app for eg: app 
+.app name: blalla
+.root dir: folder who contain index.js file for launch a server (./)
+.build cmd: node install 
+.start cmd: node index.js
+
+=> select free section and add .env variable for eg PORT and value 5000
+
+=> select deploy web service and wait the end 
+
+=> success ! deployment is complete and look of this address
+https://render-deploy-test-wylb.onrender.com
